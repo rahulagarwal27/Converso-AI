@@ -24,6 +24,7 @@ Converso AI is a full-stack AI chat application where users can interact with an
 - OpenAI API
 
 ## 📂 Project Structure
+```
 Converso-AI/
 │
 ├── Backened/                 # Express backend
@@ -65,10 +66,11 @@ Converso-AI/
 │   └── .gitignore
 │
 └── .gitignore                # Root gitignore for full project
+```
 
 ## 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/converso-ai.git
+git clone https://github.com/rahulagarwal27/Converso-AI
 cd converso-ai
 ```
 
@@ -79,7 +81,7 @@ npm install
 ```
 
 ## Create a .env file inside Backened:
-```bash
+```
 OPENAI_API_KEY=your_api_key_here
 MONGO_URI=your_mongodb_connection_string
 ```
@@ -100,7 +102,7 @@ npm run dev
 
 
 ## App runs at:
-```bash
+```
 http://localhost:5173
 ```
 
