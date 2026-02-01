@@ -71,7 +71,7 @@ Converso-AI/
 ## 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/rahulagarwal27/Converso-AI
-cd converso-ai
+cd Converso AI
 ```
 
 ## 2️⃣ Backend Setup
